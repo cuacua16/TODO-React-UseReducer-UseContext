@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cuacua16/TODO-React-UseReducer-UseContext.git/static/css/main.d55d2316.css",
-    "main.js": "/cuacua16/TODO-React-UseReducer-UseContext.git/static/js/main.0a8107ae.js",
-    "index.html": "/cuacua16/TODO-React-UseReducer-UseContext.git/index.html",
-    "main.d55d2316.css.map": "/cuacua16/TODO-React-UseReducer-UseContext.git/static/css/main.d55d2316.css.map",
-    "main.0a8107ae.js.map": "/cuacua16/TODO-React-UseReducer-UseContext.git/static/js/main.0a8107ae.js.map"
+    "main.css": "/TODO-React-UseReducer-UseContext/static/css/main.d55d2316.css",
+    "main.js": "/TODO-React-UseReducer-UseContext/static/js/main.0a8107ae.js",
+    "index.html": "/TODO-React-UseReducer-UseContext/index.html",
+    "main.d55d2316.css.map": "/TODO-React-UseReducer-UseContext/static/css/main.d55d2316.css.map",
+    "main.0a8107ae.js.map": "/TODO-React-UseReducer-UseContext/static/js/main.0a8107ae.js.map"
   },
   "entrypoints": [
     "static/css/main.d55d2316.css",
